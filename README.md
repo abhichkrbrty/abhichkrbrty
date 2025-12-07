@@ -1,5 +1,9 @@
 # 💫 About Me:
-🚀 I’m currently working on building MemMapRu — a memory OS for AI copilots — and bootstrapping RuruSystems as a unified AI venture hub.<br><br>🤝 I’m looking to collaborate on memory architectures, agent frameworks, or early-stage AI product infra.<br><br>🧠 I’m looking for help with startup-friendly legal incorporation (LLC/C-Corp), GTM support, and AI infra partnerships.<br><br>🌱 I’m currently learning about symbolic memory graphs, multimodal context retrievers, and scalable quant research deployment.<br><br>💬 Ask me about: memory infrastructure for LLM agents, quant signal modeling, and Chrome-based AI tooling.<br><br>⚡ Fun fact: I run live forecasting engines for BankNIFTY, and soon your AI copilots will remember what you said last week 😉
+🚀 I’m Abhi Chakraborty — a software engineer turned founder, building intelligent systems at the intersection of memory, autonomy, and applied AI. After 9+ years in backend systems and analytics, I’m now focused on launching RuruSystems, a unified AI venture hub designed to power the next generation of contextual copilots and algorithmic intelligence.
+
+My lead product is MemMapRu, a memory OS for AI agents that makes tools like ChatGPT or DeepSeek remember what matters — transforming scattered prompts into persistent, queryable knowledge. I’m also building KinetRu, a real-time signal engine born out of my quantitative research in Indian markets (BankNIFTY), and GnosiRu, a generative storytelling engine for contextual AI recall.
+
+I care deeply about memory architectures, intelligent agent frameworks, and developer-first tools. Currently based in Seattle, I’m open to legal partners (LLC/C-Corp), GTM collaborators, and AI infra alliances. Let’s build systems that don’t forget.
 
 
 ## 🌐 Socials:
